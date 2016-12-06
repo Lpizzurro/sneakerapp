@@ -1,3 +1,28 @@
+header {
+  background-color: white
+}
+
 body {
   background-color: red
+}
+
+<p>
+  color: white;
+  font-size: 4px
+  a {
+    text-decoration: none;
+    color: white;
+  }
+section {
+  color: white;
+  font size: 4px;
+}
+header {
+  background-color: white;
+}
+<p>
+text-decoration: underline;
+
+footer {
+  background-color: white;
 }
