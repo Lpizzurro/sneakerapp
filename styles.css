@@ -3,25 +3,43 @@ header {
 }
 
 body {
-  background-color: red
+  background-color: red;
 }
 
-<p> 
+img {
+  background-color: red;
+  margin: 20px; 20px
+}
+
+<p class="larger-text">Quick Sneakers</p>
+.larger-text {
+  font-size: 40px;
+}
+</p>
+
+<a> {
+  text-align: left;
   color: white;
-  font-size: 4px
-  a {
+  font-size: 4px;
+    }
+  <a> {
     text-decoration: none;
     color: white;
   }
-section {
+<section> {
   color: white;
   font size: 4px;
+}
+
+<p> {
+  background-color: white;
 }
 header {
   background-color: white;
 }
-<p>
-text-decoration: underline;
+<p> {
+  text-decoration: underline;
+}
 
 footer {
   background-color: white;
