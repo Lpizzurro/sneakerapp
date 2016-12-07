@@ -1,43 +1,47 @@
 header {
-  background-color: white
+  background-color: white;
 }
 
 body {
-  background-color: red;
+  background-color: white;
 }
 
 img {
-  background-color: red;
-  margin: 20px; 20px
+  display:block;
+  margin: 20px; 20px;
 }
 
-<p class="larger-text">Quick Sneakers</p>
+
 .larger-text {
-  font-size: 40px;
+  font-size:32px;
 }
-</p>
 
-<a> {
+section {
+  min-height: 300px;
+}
+
+p {
   text-align: left;
   color: white;
-  font-size: 4px;
+  font-size: 20px;
     }
-  <a> {
+p {
     text-decoration: none;
     color: white;
   }
-<section> {
-  color: white;
-  font size: 4px;
+section {
+  color: black;
+  font-size: 16px;
 }
 
-<p> {
+p {
   background-color: white;
 }
+
 header {
   background-color: white;
 }
-<p> {
+p {
   text-decoration: underline;
 }
 
